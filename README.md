@@ -1,4 +1,4 @@
-# Generating Replay Data for Continual Learning
+# Effective Replay Data Generation for Continual Learning
 
 This repo covers an reference implementation for the paper in PyTorch, using CIFAR10 as an illustrative example.
 
